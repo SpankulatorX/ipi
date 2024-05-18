@@ -1,4 +1,5 @@
 # Network Info Tool
+![ipi](https://github.com/SpankulatorX/ipi/assets/126339103/12038894-c2ef-4429-9243-61dd9134ccf3)
 
 ## Description
 This is a network tool that gathers and displays information about your network configuration. The tool can fetch local and external IP addresses, gateway IP, and DNS servers, presenting this information in an easy-to-read format using the Rich library.
